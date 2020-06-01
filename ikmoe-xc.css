@@ -1,0 +1,103 @@
+.ikmoe-buju-0 {
+	width: 100%;
+	height: 50px
+}
+
+.ikmoe-buju {
+	position: relative;
+	top: 55px;
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+	background: rgba(0, 0, 0, 0)
+}
+
+.ikmoe-xc-buju {
+	margin: 0 auto;
+	width: 90%;
+	height: auto
+}
+
+.ikmoe-xc-tu {
+	float: left;
+	width: 100%;
+	height: auto;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;
+	break-inside: avoid;
+	-moz-page-break-inside: avoid;
+	-webkit-column-break-inside: avoid
+}
+
+.ikmoe-xc-tu img {
+	width: 95%;
+	height: auto;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #ccc
+}
+
+.ikmoe-xc-bk {
+	border: 1px solid #ccc;
+	height: auto;
+	border-radius: 10px 10px 10px 10px;
+	background: #fff;
+	transition: All .4s ease-in-out
+}
+
+.ikmoe-xc-bk:hover {
+	box-shadow: 0 5px 5px 5px #C4C4C4
+}
+
+.ikmoe0 {
+	width: 100%;
+	height: 300px;
+	background: red
+}
+
+.ikmoe-cbl {
+	position: fixed;
+	background: #fff;
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+	float: left;
+	bottom: 0;
+	font-size: 20px;
+	z-index: 10
+}
+
+.num {
+	border: 2px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #ccc
+}
+
+.next {
+	border: 2px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #ccc
+}
+
+.prev {
+	border: 2px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #ccc
+}
+
+.ikmoe-buju-1 {
+	height: 15px
+}
+
+@media screen and (min-width:768px) {
+	.ikmoe-xc-buju {
+		margin: 0 auto;
+		width: 90%;
+		height: auto;
+		column-count: 4;
+		column-gap: 1em;
+		-moz-column-count: 4;
+		-webkit-column-count: 4;
+		-moz-column-gap: 1em;
+		-webkit-column-gap: 1em
+	}
+}
