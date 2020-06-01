@@ -1,10 +1,16 @@
 # WordPress二次元主题Grace-Luis
-主题介绍
+#预览图
+![lurbk](https://www.lurbk.com/wp-content/uploads/2020/02/202002031561315.jpg)
+![lurbk](https://www.lurbk.com/wp-content/uploads/2020/02/2020-02-03T13-21-38.png)
+![lurbk](https://www.lurbk.com/wp-content/uploads/2020/02/2020-02-03T13-09-17.png)
+![lurbk](https://www.lurbk.com/wp-content/uploads/2020/02/2020-02-03T13-07-55.png)
+![lurbk](https://www.lurbk.com/wp-content/uploads/2020/02/2020-02-03T14-07-06.png)
+#主题介绍
 主题是跟随个人喜好进行改造的，而且目前对WordPress也不是很了解，所有没有做什么大更改。
 
-主题我可能会样子更新的，因为时间忙所以也没有做太多优化美化。
+主题我可能会更新的，因为时间忙所以也没有做太多优化美化。
 
-主题功能
+$主题功能
 1.增加相册页面。
 
 2.增加心情说说页面
@@ -36,6 +42,6 @@
 
 2.二次元下载插件(非必要)
 
-交流群879479659 Qq2651636361
+#交流群879479659 Qq2651636361
 
-二次元的手动将style2.css改成style.css
+#二次元的手动将style2.css改成style.css
